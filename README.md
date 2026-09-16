@@ -9,16 +9,6 @@
 </p>
 
 
-<p align="center">
-  <a href="./README.md">
-    <img src="https://img.shields.io/badge/中文版本-README-blue?style=for-the-badge" alt="中文版本">
-  </a>
-  &nbsp;&nbsp;
-  <a href="./README_en.md">
-    <img src="https://img.shields.io/badge/English%20Version-README-green?style=for-the-badge" alt="English Version">
-  </a>
-</p>
-
 # 欢乐二人麻将
 
 **Happy Two-Player Mahjong**
