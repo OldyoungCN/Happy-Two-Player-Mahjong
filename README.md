@@ -5,6 +5,7 @@ but didn't always have four people around.
 
 Built with Godot, and designed specifically around two-player matches.
 
+
 ## Current Features
 
 - Single-player against computer opponents
@@ -17,8 +18,11 @@ Built with Godot, and designed specifically around two-player matches.
 - Music and sound effects
 
 ## Screenshots
+![Gameplay](01_gameplay.png)
 
-Coming soon.
+![Gameplay](03_ready_hand_hint.png)
+
+![Gameplay](05_victory_result.png)
 
 ## Built with Godot
 
@@ -31,8 +35,7 @@ The game source code is not published in this repository.
 
 ## Play
 
-Steam Demo:
-[Steam link here]
+Demo:https://oldyoungcn.itch.io/mahjong-web-trial
 
 ## Developer
 
