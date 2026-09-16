@@ -10,7 +10,7 @@
 
 # Happy Two-Player Mahjong
 
-**欢乐二人麻将**
+**Happy Two-Player Mahjong**
 
 Happy Two-Player Mahjong is a Chinese Mahjong game designed specifically around two-player matches.
 
