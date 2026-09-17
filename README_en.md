@@ -137,6 +137,8 @@ Happy Two-Player Mahjong is currently being prepared for:
 
 Steam and Demo links will be added here once they are publicly available.
 
+Android Store Closed Beta Application URL: https://play.google.com/apps/testing/com.oldyoung.mahjong2p
+
 ## About Gambling
 
 Happy Two-Player Mahjong is a Mahjong video game and does **not** involve real-money gambling.
