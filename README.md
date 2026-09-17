@@ -138,6 +138,8 @@ https://oldyoungcn.itch.io/
 
 Steam 页面和 Demo 链接可在正式公开后添加在这里。
 
+## Android 封闭测试申请链接：https://play.google.com/apps/testing/com.oldyoung.mahjong2p
+
 ## 关于游戏内容
 
 本游戏是麻将电子游戏，不涉及真钱赌博。
