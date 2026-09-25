@@ -135,7 +135,7 @@ Happy Two-Player Mahjong is currently being prepared for:
 * Steam Demo
 * Steam Early Access
 
-Steam Store URL can be Access：https://store.steampowered.com/app/5245710/_/?beta=1
+Steam Store ：[https://store.steampowered.com/app/5245710/_/?beta=1](https://store.steampowered.com/app/5245710/_/)
 
 ## Android Store Closed Beta Application URL: 
 
