@@ -136,7 +136,7 @@ https://oldyoungcn.itch.io/
 * Steam Demo
 * Steam Early Access
 
-Steam 商店可以访问了：https://store.steampowered.com/app/5245710/_/?beta=1
+Steam ：https://store.steampowered.com/app/5245710/_/
 
 ## Android 封闭测试申请链接：
 
