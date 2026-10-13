@@ -1,4 +1,4 @@
-<img width="1672" height="941" alt="Golden Autumn Mahjong Night" src="https://github.com/user-attachments/assets/1a742cd9-cf3d-40e3-9472-e0951f9b5313" /><p align="center">
+<p align="center">
   <a href="./README.md">
     <img src="https://img.shields.io/badge/中文版本-README-blue?style=for-the-badge" alt="中文版本">
   </a>
@@ -7,7 +7,6 @@
     <img src="https://img.shields.io/badge/English%20Version-README-green?style=for-the-badge" alt="English Version">
   </a>
 </p>
-
 
 # 欢乐二人麻将
 
@@ -19,13 +18,23 @@
 
 有时候想打麻将，但身边并不总是刚好有四个人。
 
-所以我没有把传统四人麻将简单减少两个人，而是从一开始就围绕“两个人也能舒服地玩一局麻将”重新设计游戏节奏、牌墙、电脑对手和操作体验。
+所以我没有简单地把传统四人麻将减少两个玩家，而是从一开始就围绕“两个人也能舒服地玩一局麻将”重新设计游戏节奏、牌墙、电脑对手以及操作体验。
 
 游戏使用 **Godot Engine** 开发，目前支持 Windows 平台。
 
 ---
 
-[![Happy Two-Player Mahjong Gameplay](https://img.youtube.com/vi/v3bECJTjix8/maxresdefault.jpg)](https://youtu.be/v3bECJTjix8)
+## Gameplay Video
+
+<p align="center">
+  <a href="https://youtu.be/v3bECJTjix8">
+    <img src="https://img.youtube.com/vi/v3bECJTjix8/maxresdefault.jpg"
+         alt="Happy Two-Player Mahjong Gameplay"
+         width="720">
+  </a>
+</p>
+
+---
 
 ## 当前内容
 
@@ -85,13 +94,13 @@
 
 单人模式提供 **1–8 级 AI 难度**。
 
-我不希望高难度只是简单让电脑作弊，所以开发过程中一直在调整：
+我不希望所谓高难度只是简单让电脑作弊，所以开发过程中一直在调整：
 
 - 出牌逻辑
 - 风险判断
 - 不同等级之间的差异
 
-有时候 Level 8 也会让我怀疑：
+当然，Level 8 有时候也会让我怀疑：
 
 到底是谁在测试谁。
 
@@ -111,7 +120,7 @@
 
 整个游戏使用 **Godot Engine** 开发。
 
-作为个人独立开发者，我也会记录一些开发过程中遇到的问题：
+作为个人独立开发者，我也会记录开发过程中遇到的问题：
 
 - Mahjong 游戏逻辑设计
 - AI 决策
@@ -122,7 +131,7 @@
 - 性能优化
 - Bug 排查与修复
 
-有些问题可能很小，但如果能帮助另一个正在使用 Godot 的开发者，那就值得记录下来。
+有些问题可能很小，但如果能够帮助另一个正在使用 Godot 的开发者，那就值得记录下来。
 
 ---
 
@@ -131,7 +140,7 @@
 这个仓库用于公开：
 
 - 游戏介绍
-- 截图
+- 游戏截图
 - Gameplay 视频
 - GIF
 - 版本更新记录
@@ -147,22 +156,19 @@
 
 ## 游戏截图
 
-![gameplay](01_gameplay_english.png)
+![Gameplay](01_gameplay_english.png)
 
-![gameplay](01_start_screen.png)
+![Gameplay](01_start_screen.png)
 
-![gameplay](03_ready_hand_hint.png)
+![Gameplay](03_ready_hand_hint.png)
 
-![gameplay](05_victory_result.png)
+![Gameplay](05_victory_result.png)
 
 ---
 
-<img width="1672" height="941" alt="Golden Autumn Mahjong Night" src="https://github.com/user-attachments/assets/a371063f-c865-49ed-ad0c-70a99286d533" />
+# 游戏版本
 
-
-## 游戏版本
-
-### Steam
+## Steam
 
 正式版：
 
@@ -172,7 +178,7 @@ Steam Demo 同时提供免费下载试玩。
 
 ---
 
-### itch.io
+## itch.io
 
 主页：
 
@@ -188,9 +194,9 @@ https://oldyoungcn.itch.io/mahjong-windows
 
 ---
 
-### Android
+## Android
 
-Android 版本正在进行测试。
+Android 版本正在测试。
 
 测试入口：
 
@@ -211,9 +217,9 @@ https://play.google.com/apps/testing/com.oldyoung.mahjong2p
 
 ---
 
-## 开发者
+# 开发者
 
-**OldYoung**
+## OldYoung
 
 个人独立游戏开发者。
 
