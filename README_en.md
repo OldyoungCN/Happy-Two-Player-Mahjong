@@ -1,3 +1,13 @@
+<p align="center">
+  <a href="./README.md">
+    <img src="https://img.shields.io/badge/中文版本-README-blue?style=for-the-badge" alt="中文版本">
+  </a>
+  &nbsp;&nbsp;
+  <a href="./README_en.md">
+    <img src="https://img.shields.io/badge/English%20Version-README-green?style=for-the-badge" alt="English Version">
+  </a>
+</p>
+
 # Happy Two-Player Mahjong
 
 A Mahjong game designed specifically around two-player matches.
@@ -8,31 +18,50 @@ Sometimes I want to play Mahjong, but I don't always have four people available.
 
 Instead of taking a traditional four-player Mahjong game and simply removing two players, I wanted to build something that feels natural for two people from the beginning.
 
-Built with Godot Engine.
+The game is built with **Godot Engine** and currently supports Windows.
 
 ---
 
-[![Happy Two-Player Mahjong Gameplay](https://img.youtube.com/vi/v3bECJTjix8/maxresdefault.jpg)](https://youtu.be/v3bECJTjix8)
+## Gameplay Video
+
+<p align="center">
+  <a href="https://youtu.be/v3bECJTjix8">
+    <img src="https://img.youtube.com/vi/v3bECJTjix8/maxresdefault.jpg"
+         alt="Happy Two-Player Mahjong Gameplay"
+         width="720">
+  </a>
+</p>
+
+---
 
 ## Features
+
+The game currently includes:
 
 - Single-player against AI opponents
 - AI difficulty levels 1–8
 - Windows LAN multiplayer
 - 64-tile Mahjong wall
-- Characters, Dots, Bamboo
+- Characters, Dots, and Bamboo suits
 - East, South, West, North, Red Dragon, Green Dragon, White Dragon
-- Draw / discard
+- Draw and discard
 - Chi
 - Pong
-- Kong
-- Ready hand
+- Exposed Kong
+- Concealed Kong
+- Added Kong
+- Robbing a Kong
+- Ready hand detection
 - Mahjong wins
-- Self-draw wins
+- Self-drawn wins
 - Beginner guidance
+- Basic tutorial
+- Draw/action hints
 - Chinese / English interface
 - Multiple table themes
-- Music and sound controls
+- Background music
+- Sound effects
+- Separate music and sound volume controls
 - Detailed match results
 
 ---
@@ -43,7 +72,9 @@ Traditional Mahjong usually needs four players.
 
 But in real life, wanting to play Mahjong and having four people available do not always happen at the same time.
 
-So I designed this game around two players from the beginning.
+I wanted to make something that lets people enjoy a Mahjong match without waiting for a full table.
+
+So Happy Two-Player Mahjong was designed around two players from the beginning.
 
 You can:
 
@@ -52,25 +83,50 @@ You can:
 
 ---
 
+## AI Opponents
+
+The single-player mode includes **8 AI difficulty levels**.
+
+I didn't want higher difficulty to simply mean unfair advantages, so I spent time adjusting:
+
+- Discard decisions
+- Risk evaluation
+- Differences between difficulty levels
+
+Sometimes Level 8 still makes me wonder:
+
+Who is testing who?
+
+---
+
+## LAN Multiplayer
+
+The game supports Windows LAN multiplayer.
+
+Two computers connected to the same local network can create and join a match.
+
+This is currently LAN multiplayer, not Internet matchmaking.
+
+---
+
 ## Built with Godot
 
-This project is developed with Godot Engine.
+The entire game is developed with **Godot Engine**.
 
-During development, I document things such as:
+As a solo developer, I also document things I encounter during development:
 
 - Mahjong rule systems
 - AI decision making
-- UI design
-- Windows export
+- Godot UI
+- Windows exports
 - GL Compatibility
 - LAN networking
 - Performance improvements
 - Bug fixing
 
+Some problems may be small, but if they help another Godot developer, they are worth writing down.
+
 ---
-
-<img width="1672" height="941" alt="Golden Autumn Mahjong Night" src="https://github.com/user-attachments/assets/accc6fcf-2706-4a21-81e2-bdd11ef78a3a" />
-
 
 ## About This Repository
 
@@ -83,20 +139,29 @@ This repository contains:
 - Update notes
 - Development logs
 - Known issues
+- Indie game development experiences
 
-**The full source code is not published here.**
+**The full source code is not published in this repository.**
 
 This is a project showcase and development log, not a source repository.
 
 ---
 
-## Play
+# Play
 
-Steam:
+## Steam
+
+Released version:
 
 https://store.steampowered.com/app/5245710/
 
-itch.io:
+A free Steam Demo is also available.
+
+---
+
+## itch.io
+
+Homepage:
 
 https://oldyoungcn.itch.io/
 
@@ -110,32 +175,54 @@ https://oldyoungcn.itch.io/mahjong-windows
 
 ---
 
-## Developer
+## Android
 
-**OldYoung**
+Android version is currently in testing.
 
-Solo indie game developer.
+Testing link:
 
-I mainly use Godot, and I enjoy experimenting with AI-assisted development, unusual workflows, and small game ideas.
-
-I like turning ideas into playable games.
-
-Some projects may stay small, but finishing and sharing them with real players is what makes them meaningful.
+https://play.google.com/apps/testing/com.oldyoung.mahjong2p
 
 ---
 
-## Feedback
+## About The Game
+
+Happy Two-Player Mahjong is a Mahjong video game.
+
+It does not include:
+
+- Real-money gambling
+- Cash withdrawal
+- Paid gambling chips
+- Real-world rewards connected to wins or losses
+
+---
+
+# Developer
+
+## OldYoung
+
+Solo indie game developer.
+
+I mainly use Godot to make games, and I also experiment with AI-assisted development and different ways of building small projects.
+
+I enjoy turning ideas into playable games.
+
+Some projects may stay small, but finishing something and sharing it with real players is what makes it meaningful.
+
+---
+
+# Feedback
 
 If you play the game, I would love to hear:
 
 - What feels confusing
-- Whether the AI difficulty feels fair
-- Any Mahjong rules that feel incorrect
+- Whether AI difficulty feels fair
+- Any Mahjong rules that need adjustment
 - UI problems
 - Bugs
-- Suggestions for beginners
+- Whether beginner hints are useful
 
 Real feedback helps much more than a simple "looks good".
 
 Thanks for playing.
-
