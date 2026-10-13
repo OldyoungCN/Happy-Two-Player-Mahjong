@@ -25,6 +25,8 @@
 
 ---
 
+[![Happy Two-Player Mahjong Gameplay](https://img.youtube.com/vi/v3bECJTjix8/maxresdefault.jpg)](https://youtu.be/v3bECJTjix8)
+
 ## 当前内容
 
 目前游戏包含：
